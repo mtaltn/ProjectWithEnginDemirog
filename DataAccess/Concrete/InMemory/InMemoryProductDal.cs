@@ -3,6 +3,7 @@ using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 
 namespace DataAccess.Concrete.InMemory
@@ -17,7 +18,7 @@ namespace DataAccess.Concrete.InMemory
                 new Product{CategoryId=1, ProductId=2, ProductName="Tek", UnitInStock=3, UnitPrice=500 },
                 new Product{CategoryId=2, ProductId=3, ProductName="Mehmet", UnitInStock=2, UnitPrice=1500 },
                 new Product{CategoryId=2, ProductId=4, ProductName="MeTe", UnitInStock=65, UnitPrice=150 },
-                new Product{CategoryId=2, ProductId=5, ProductName="Tekin", UnitInStock=1, UnitPrice=85 }
+                new Product{CategoryId=2, ProductId=5, ProductName="Ihh", UnitInStock=1, UnitPrice=85 }
             };
 
         }
@@ -32,9 +33,19 @@ namespace DataAccess.Concrete.InMemory
             _products.Remove(productToDelete);
         }
 
+        public Product get(Expression<Func<Product, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Product> GetAll()
         {
             return _products;
+        }
+
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+        {
+            throw new NotImplementedException();
         }
 
         public List<Product> GetAllByCategory(int categoryId)
