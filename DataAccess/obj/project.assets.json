@@ -1468,9 +1468,22 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -5654,6 +5667,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -5662,6 +5680,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Core >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.21",
       "System.Linq.Expressions >= 4.3.0"
@@ -5702,6 +5721,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\Core\\Core.csproj"
+            },
             "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\Entities\\Entities.csproj"
             }
