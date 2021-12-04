@@ -14,11 +14,11 @@ namespace DataAccess.Concrete.InMemory
         public InMemoryProductDal()
         {
             _products = new List<Product> {
-                new Product{CategoryId=1, ProductId=1, ProductName="Tekin", UnitInStock=15, UnitPrice=15 },
-                new Product{CategoryId=1, ProductId=2, ProductName="Tek", UnitInStock=3, UnitPrice=500 },
-                new Product{CategoryId=2, ProductId=3, ProductName="Mehmet", UnitInStock=2, UnitPrice=1500 },
-                new Product{CategoryId=2, ProductId=4, ProductName="MeTe", UnitInStock=65, UnitPrice=150 },
-                new Product{CategoryId=2, ProductId=5, ProductName="Ihh", UnitInStock=1, UnitPrice=85 }
+                new Product{CategoryId=1, ProductId=1, ProductName="Tekin", UnitsInStock=15, UnitPrice=15 },
+                new Product{CategoryId=1, ProductId=2, ProductName="Tek", UnitsInStock=3, UnitPrice=500 },
+                new Product{CategoryId=2, ProductId=3, ProductName="Mehmet", UnitsInStock=2, UnitPrice=1500 },
+                new Product{CategoryId=2, ProductId=4, ProductName="MeTe", UnitsInStock=65, UnitPrice=150 },
+                new Product{CategoryId=2, ProductId=5, ProductName="Ihh", UnitsInStock=1, UnitPrice=85 }
             };
 
         }
@@ -58,7 +58,7 @@ namespace DataAccess.Concrete.InMemory
             Product productToUpdate = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
             productToUpdate.ProductName = product.ProductName;
             productToUpdate.CategoryId = product.CategoryId;
-            productToUpdate.UnitInStock = product.UnitInStock;
+            productToUpdate.UnitsInStock = product.UnitsInStock;
             productToUpdate.UnitPrice = product.UnitPrice;
         }
     }
