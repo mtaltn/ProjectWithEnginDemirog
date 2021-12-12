@@ -71,3 +71,4 @@ C:\Users\Tekin\source\repos\ProjectWithEnginDemirog\WebAPI\bin\Debug\netcoreapp3
 C:\Users\Tekin\source\repos\ProjectWithEnginDemirog\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\Tekin\source\repos\ProjectWithEnginDemirog\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Tekin\source\repos\ProjectWithEnginDemirog\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Tekin\source\repos\ProjectWithEnginDemirog\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll

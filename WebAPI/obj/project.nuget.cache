@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FX/poF3gks0yIybSTtwNaxzAp+tYlJahRZaQtybD4R1KwllbOK9vUllwuv7yI78PixpVXaIIp9z4FdDqmFXgGw==",
+  "dgSpecHash": "muIzRTIHKWp4LHY6MLMEm6bCVtY1w5Ia+GEl+0GsMLw2a4+cIJgLkuze6e0a+40dgxv2t0pbVQlvMWRHAalKYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Tekin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Tekin\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

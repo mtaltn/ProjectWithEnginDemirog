@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kk7yVEyKuchTaQxP3ffvyJ5/G0E1Jj68WFFNFuf4o6s9g9OwStw3eZ01NHBmrCpNQeiLVX314EFphP29h2eO0Q==",
+  "dgSpecHash": "awizLmNOg1kbPF2VaTXmABmUOTdoaJtpffWKU6ECtqHR4UIZloAl5sXhiGadNB5M6/s6aBQ3glo1syR6puV5aw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tekin\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

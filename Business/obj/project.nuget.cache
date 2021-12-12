@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ftd9vRzNA6BHk80u/JEgf1JywcD+SanOOvBPgeWPGUuw6lcFB2Z61XwgX2rnHYCXPagTHXIfQXqO1rH19z5Jsw==",
+  "dgSpecHash": "HmEVN3PiaO+CQg4p0n0uwK0pAc/SGF+bYAbGosJnvwr2Kf4p1u9UVowukdMghh0sQuF+Vf1r+HzQ3IeE47VVOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tekin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Tekin\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
