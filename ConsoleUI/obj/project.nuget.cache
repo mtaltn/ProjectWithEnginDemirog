@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YhgBRphrCxFh4oH7E2wU/VP9ujWMnH+Dn2/swnGdKTmK6l0pzqAkJ8B00E39n2pl90ePevO+YGcc7qKyL5fNoQ==",
+  "dgSpecHash": "N/LXSsfpZvqFVzhGnwqkHmnY+ECvcNdFCv9fMid64Mo6s6vM334Mp11DI54jX9BEe8L2wEYycRexhXSRQ1Pn4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tekin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Tekin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
