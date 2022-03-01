@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N/LXSsfpZvqFVzhGnwqkHmnY+ECvcNdFCv9fMid64Mo6s6vM334Mp11DI54jX9BEe8L2wEYycRexhXSRQ1Pn4g==",
+  "dgSpecHash": "hyN/7tY9xz5cW6qFhabEWuKdTHV7KlCfIbN6nyh77d1REmHzb+Put0Wm+Y+fNIO5KwWZWAan5lCS9pJi1GsUvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tekin\\source\\repos\\ProjectWithEnginDemirog\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
@@ -31,10 +31,10 @@
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.21\\microsoft.extensions.primitives.3.1.21.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
-    "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
-    "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Tekin\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",

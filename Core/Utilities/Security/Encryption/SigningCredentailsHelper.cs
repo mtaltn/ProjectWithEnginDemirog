@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Core.Utilities.Security.Encryption
 {
-    class SigningCredentailsHelper
+    public class SigningCredentailsHelper
     {
+        public static SigningCredentails CreateSigningCredentials()
+        {
+
+        }
     }
 }
